@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- General Strings -->
+    <string name="app_name">ClassUp</string>
+
+    <!-- MediaActivity Strings -->
+    <string name="back">Back</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="reload">Reload</string>
+    <string name="full_screen">Full Screen</string>
+    <string name="reload_music">Reload Music</string>
+    <string name="play_music">Play Music</string>
+    <string name="pause_music">Pause Music</string>
+    <string name="please_use_headphones">Please use headphones for better experience</string>
+    <string name="error_occurred">An error occurred during video playback.</string>
+</resources>

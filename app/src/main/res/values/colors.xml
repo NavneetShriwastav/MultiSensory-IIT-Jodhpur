@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   0    <color name="black">#FF000000</color>
+        <color name="light_blue">#ADD8E6</color>
+        <color name="pale_green">#98FB98</color>
+        <color name="lemon_chiffon">#FFFACD</color>
+        <color name="lavender">#E6E6FA</color>
+        <color name="light_pink">#FFB6C1</color>
+        <color name="white">#FFFFFF</color>
+        <color name="light_gray">#D3D3D3</color>
+        <color name="peach_puff">#FFDAB9</color>
+        <color name="turquoise">#40E0D0</color>
+        <color name="light_coral">#F08080</color>
+     <color name="sunshine_yellow">#FFFF00</color>
+     <color name="sky_blue">#87CEEB</color>
+     <color name="mint_green">#98FF98</color>
+     <color name="cotton_candy">#FFC0CB</color>
+     <color name="bubblegum_pink">#FF69B4</color>
+     <color name="peach">#FFDAB9</color>
+     <color name="spring_green">#00FF7F</color>
+     <color name="rose">#FF007F</color>
+     <color name="lilac">#C8A2C8</color>
+     <color name="tangerine">#FFA500</color>
+
+        <color name="happy_color">#FFEB3B</color>
+        <color name="day_color">#87CEEB</color>
+        <color name="stress_color">#F44336</color>
+        <color name="energy_color">#FF9800</color>
+        <color name="sleeping_color">#B3A2C7</color>
+
+
+
+
+</resources>

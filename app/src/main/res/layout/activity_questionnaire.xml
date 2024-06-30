@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".questions.QuestionnaireActivity"
+    android:id="@+id/background"
+    android:padding="16dp">
+
+    <ImageView
+        android:id="@+id/back"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="25dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="2dp"
+        android:src="@drawable/baseline_arrow_back_ios_24">
+    </ImageView>
+
+    <TextView
+        android:layout_marginLeft="45dp"
+        android:textSize="16dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Please one option then only proceed"
+        android:textStyle="bold"
+        android:fontFamily="@font/fonts"
+        android:layout_marginBottom="28dp"
+        >
+    </TextView>
+
+    <ImageView
+        android:layout_gravity="center"
+        android:id="@+id/question_image"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_marginBottom="80dp"
+        android:contentDescription=""/>
+
+    <TextView
+        android:fontFamily="@font/fonts"
+        android:id="@+id/question_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="18sp"
+        android:layout_marginBottom="20dp"/>
+
+    <RadioGroup
+        android:id="@+id/options_group"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" />
+
+    <Button
+        android:fontFamily="@font/fonts"
+        android:id="@+id/next_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Next"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="16dp" />
+
+</LinearLayout>
